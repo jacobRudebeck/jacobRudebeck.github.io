@@ -1,5 +1,17 @@
 ## Welcome to GitHub Pages
+Insert professional self assessment:
 
+
+ Code Review link
+ 
+ 
+  Enhancement One: Software Design and Engineering : 
+  
+  
+  Enhancement Two: Algorithms and Data Structure 
+  
+  
+  Enhancement Three: Databases 
 You can use the [editor on GitHub](https://github.com/jacobRudebeck/jacobRudebeck.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
