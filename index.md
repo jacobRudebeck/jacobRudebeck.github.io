@@ -9,7 +9,7 @@ The second artifact is a medical application system written in the java programm
 The third artifact resolves around a database and more specifically mongoDB with non SQL database functionality. This artifact is used for querying information from different parts of a database. The database queries must also be secure as it deals with company and user information. This artifact employs CRUD functionality to access information. These coding best practices as shown in the artifact allow the code to have full functionality while being secure. Functions such as error messages being displayed when an incorrect operation occurs allows for information to be secured and helps to stop unauthorized access.
 
 
-## [Code Review link](https://github.com/jacobRudebeck/ArtifactOne) 
+## [Code Review link](https://github.com/jacobRudebeck/codeReview) 
  
  
 # [Enhancement One: Software Design and Engineering :](https://github.com/jacobRudebeck/ArtifactOne) 
