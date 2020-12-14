@@ -12,7 +12,7 @@ The third artifact resolves around a database and more specifically mongoDB with
  Code Review link
  
  
-# Enhancement One: Software Design and Engineering : 
+# [Enhancement One: Software Design and Engineering :] (https://github.com/jacobRudebeck/ArtifactOne) 
 This artifact was for CS-330 Comp Graphic and Visualization. It was created in early August 2020. The artifact is an openGl project written in C++. This particular artifact is a 3 dimensional object (a chair) that shows up on the screen in a window. The program is ran and the screen shows the object (the chair) with the mouse cursor at the center of the screen so the user can move the camera around the object. The arrow keys can be used to zoom in and out on the object. The left and right arrow keys can be used to switch between perspective and orthographic views. This is useful as it shows the difference on screen between the two view options. Orthographic view “directly maps coordinates to the 2D plane of the screen” (De Vries, 2014). Perspective view “appears to mimic perspective such as when objects farther away appear to be smaller” (De Vries, 2014). The artifact Is a chair but has several components as each needed to be created individually. 
 ### Reasoning:
 The reason I included this article into my ePortfolio was to show my ability and knowledge in software design and engineering. The components such as the actual physical properties of a chair took planning before I coded them into the openGl program I had created. Before I started on the chair creation, I took a piece of paper and drew the components of the chair and where their coordinates would be at in relation to each other. With some other programs, I could write the code and guess and check my work. This class allowed me to expand my knowledge when it came to designing and planning a program before creating the program. I improved this particular artifact by adding another light source, parts of the chair, and the camera movement. These additions allowed the program to have more features and show the ability of the different parts of the program to still work together. The case statements in the switch(key) section have breaks for good coding practices and allow each key to be selected to show the different view of the object as well as zooming in and out.
@@ -23,7 +23,7 @@ The process of enhancing the artifact such as this one did take a bit of time co
 
   
   
-# Enhancement Two: Algorithms and Data Structure :
+# [Enhancement Two: Algorithms and Data Structure] :  (https://github.com/jacobRudebeck/ArtifactTwo)
 This artifact was for cs-320 software test, automation, and QA and was created in May 2020. This artifact was a java medical record system. The main test plan required unit testing for the medical records system to ensure the program would work correctly. It also required several features to be added such as adding a user to log in, adding doctors with unique ID’s (names were not required to be unique), and adding a patient with patient information. The program also required a different section to add a medical record with treatments, medications, and allergies. When dealing with medical record a patient history would need to be created after the medical record was created. This patient history would contain at least 1 (or more) treatments, medications, and allergies. Medications would first require a treatment plan for the patient. The third feature of this artifact was an allergy find class. This would allow the user to use the system to search for allergies as well as printing all patients with allergies. The final part that was stated earlier was the unit tests. The J-unit tests would be used to test the functionality of the program. “The J-unit platform is used for launching testing frame works on JVM” (Bechtold et al., JUnit 5 User Guide).
 
 ### Reasoning: 
@@ -39,7 +39,7 @@ One thing I learned when updating the program was that creating J-unit tests for
  
   
   
-# Enhancement Three: Databases :
+# [Enhancement Three: Databases] : (https://github.com/jacobRudebeck/ArtifactThree/blob/main/finalTest.py)
 This article is a Database query program that uses mongoDB noSQL database structure to find results of a query based on the input. It uses bottle for a server connection on the localhost in order to run the methods in the program and access the database. The program utilizes Json functionality methods dumps and loads to “provide explist BSON conversion to and from json”(json_util – Tools for using Python's json module with BSON documents). This particular database is a stock market with company information. The program allows for CRUD functions to manipulate the data in the company using queries. In other words the program can create a company, read/find company data, update company data, and delete company data. The program is also set to run a performance report using averages of multiple companies and showing the report. The program can also run a portfolio of a selected company using a query to retrieve and display that companies data. The program was created about 2 months ago in CS340, October 2020.
 
 ### Reasoning: 
